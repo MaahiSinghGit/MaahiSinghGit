@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/maahisingh_uk03" target="blank"><img src="https://img.shields.io/twitter/follow/maahisingh_uk03?logo=twitter&style=for-the-badge" alt="maahisingh_uk03" /></a> </p>
 
-- 🌱 I’m currently learning **python and MERN**
+- 🌱 I’m currently learning **JAVA and MERN**
 
 - 💬 Ask me about **full stack dev**
 
