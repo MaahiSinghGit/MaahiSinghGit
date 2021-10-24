@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JAVA and MERN**
 
-- 💬 Ask me about **full stack dev**
+- 💬 Ask me about **MERN stack dev**
 
 - 📫 How to reach me **Maahisingh07m@gmail.com**
 
