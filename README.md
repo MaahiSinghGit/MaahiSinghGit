@@ -6,9 +6,10 @@
 <p align="left"> <a href="https://twitter.com/maahisingh_uk03" target="blank"><img src="https://img.shields.io/twitter/follow/maahisingh_uk03?logo=twitter&style=for-the-badge" alt="maahisingh_uk03" /></a> </p> -->
 <p align="left"> <a href="https://www.linkedin.com/in/manojsinghcsenggg/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)" alt="manoj.bishtt" /></a> </p>
 
-- 🌱 I’m currently learning **JAVA and MERN**
+- 🌱 I’m currently learning **Flutter Development**
 
-- 💬 Ask me about **MERN stack dev**
+
+- 💬 Ask me about **JAVA** **MERN stack dev**
 
 - 📫 How to reach me **Maahisingh07m@gmail.com**
 
