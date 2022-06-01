@@ -8,6 +8,8 @@
 <!-- 
 <p align="left"> <a href="https://twitter.com/maahisingh_uk03" target="blank"><img src="https://img.shields.io/twitter/follow/maahisingh_uk03?logo=twitter&style=for-the-badge" alt="maahisingh_uk03" /></a> </p> -->
 <p align="left"> <a href="https://www.linkedin.com/in/manojsinghcsenggg/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)" alt="manoj.bishtt" /></a> </p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ABSphreak&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
+
 
 - 🌱 I’m currently learning **Flutter Development**.
 
