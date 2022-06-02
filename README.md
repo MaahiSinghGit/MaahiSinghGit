@@ -3,11 +3,10 @@
 </div>
 <h1 align="center"> I'm Manoj Singh</h1>
 <h3 align="center">A CSE(B.Tech) Student From India</h3>
-<br>
 <div align="center">
 <hr width= "70%">
  </div>
-  <br>
+
 <div align="center">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=maahisinghgit&label=Profile%20views&color=0e75b6&style=flat" alt="maahisinghgit" /> </p>
 
@@ -54,7 +53,7 @@
 
  <hr width="70%">
 </div>
-</br>
+
 <div align="center">
 <i>Random dev joke for you! </i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
