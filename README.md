@@ -3,22 +3,25 @@
 </div>
 <h1 align="center"> I'm Manoj Singh</h1>
 <h3 align="center">A CSE(B.Tech) Student From India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maahisinghgit&label=Profile%20views&color=0e75b6&style=flat" alt="maahisinghgit" /> </p>
+<div align="center">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=maahisinghgit&label=Profile%20views&color=0e75b6&style=flat" alt="maahisinghgit" /> </p>
 <!-- 
 <p align="left"> <a href="https://twitter.com/maahisingh_uk03" target="blank"><img src="https://img.shields.io/twitter/follow/maahisingh_uk03?logo=twitter&style=for-the-badge" alt="maahisingh_uk03" /></a> </p> -->
-<p align="left"> <a href="[https://www.linkedin.com/in/manojsinghcsenggg/](https://www.linkedin.com/in/manojbishtt/)" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)" alt="manoj.bishtt" /></a> </p>
+<!-- <p align="left"> <a href="[https://www.linkedin.com/in/manojsinghcsenggg/](https://www.linkedin.com/in/manojbishtt/)" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)" alt="manoj.bishtt" /></a> </p>
+ -->
+<div align="center">
+  <hr width= "70%".
+
+ 🌱 I’m currently learning **Flutter Development**.
 
 
+ 💬 Ask me about **JAVA** &amp; **MERN stack dev**.
 
-- 🌱 I’m currently learning **Flutter Development**.
+ 📫 How to reach me **Maahisingh07m@gmail.com**.
 
-
-- 💬 Ask me about **JAVA** &amp; **MERN stack dev**.
-
-- 📫 How to reach me **Maahisingh07m@gmail.com**.
-
-- 📄 Know about my experiences [fresher](fresher).
+ 📄 Know about my experiences [Repo](https://github.com/MaahiSinghGit?tab=repositories).
+        <hr width= "70%">
+      </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
