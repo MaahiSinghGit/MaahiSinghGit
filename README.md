@@ -47,15 +47,25 @@
 
 <div align="center">
  <hr width="70%" >
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maahisinghgit&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="maahisinghgit" /></p>
-<div align="center">
- <hr width="1%">
-</div>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MaahiSinghGit&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Manoj's Github Stats">
+<p align="center">
+ <h2 align="center">My Github Stats</h2>
+
+|My github statistics|My languages|Streaks|
+|-|-|-|
+|[![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=MaahiSinghGit&show_icons=true&theme=dark&hide_title=true)](https://github.com/MaahiSinghGit)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaahiSinghGit&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/MaahiSinghGit)|![Manoj Singh](https://github-readme-streak-stats.herokuapp.com/?user=MaahiSinghGit&theme=dark)
+<hr>
 </br>
 
- <hr width="70%">
+
 </div>
+<p align="center">
+  <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
+  <h2 align="center">My Github Profile Trophy</h2>
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MaahiSinghGit&theme=radical&margin-w=40&margin-h=40)](https://github.com/MaahiSinghGit)
+
+<hr>
 
 <div align="center">
 <i>Random dev joke for you! </i><br>
