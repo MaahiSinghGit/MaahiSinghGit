@@ -20,9 +20,8 @@
 
  📫 How to reach me **Maahisingh07m@gmail.com**.
 
- 📄 Know about my experiences [Repo](https://github.com/MaahiSinghGit?tab=repositories).
-        <hr width= "70%">
-      </div>
+ <hr width= "70%">
+     
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
