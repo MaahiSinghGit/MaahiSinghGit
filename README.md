@@ -3,7 +3,7 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px"></h2>
 </div>
 <h1 align="center"> I'm Manoj Singh</h1>
-<h3 align="center">A CSE(B.Tech) Student From India</h3>
+<h3 align="center">Recent Computer Science graduate From DIT University, Dehradun</h3>
 
 <!-- Visitor count -->
  <div align="center">
@@ -15,10 +15,10 @@
 
 <div align="center">
 
- 🌱 I’m currently learning **Flutter Development**.
+ 🌱 I’m currently learning **MERN Development**.
 
 
- 💬 Ask me about **JAVA** &amp; **MERN stack dev**.
+ 💬 Ask me about **JAVA** &amp; **Front-End Development**.
 
  📫 How to reach me **Maahisingh07m@gmail.com**.
 
