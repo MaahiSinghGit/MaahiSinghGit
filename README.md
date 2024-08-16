@@ -16,10 +16,7 @@
 
 <div align="center">
 
- 🌱 I’m currently learning **MERN Development**.
-
-
- 💬 Ask me about **JAVA** &amp; **Front-End Development**.
+ 💬 Ask me about **JAVA**, **C#**&amp; **Web Development**.
 
  📫 How to reach me **Maahisingh07m@gmail.com**.
 
